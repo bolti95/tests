@@ -2,6 +2,18 @@ const add = (numberOne, numberTwo) => {
     return numberOne + numberTwo;
 }
 
+// let nameArray = ["Shaun", "Ian", "Diwa", "Izzy"];
+// console.log()
+
+// let favouriteNumber = (7);
+
+// const flowerShop = () => {
+//     return 0.1 + 0.2
+// }
+
+
 module.exports = {
-    add
+    add,
+    // nameArray,
+    // favouriteNumber
 }
